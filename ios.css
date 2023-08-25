@@ -42,6 +42,15 @@ body {
   align-items: center;
 }
 
+.QA {
+  margin: 0;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 1.2;
+  font-family: "Helvetica Neue";
+  align-items: center;
+}
+
 .header__subtitle {
   color: #7d7d7f;
   font-weight: 400;
